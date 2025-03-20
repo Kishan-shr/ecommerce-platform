@@ -1,12 +1,12 @@
 # ecommerce-platform
  A modern and fully responsive e-commerce platform built with the MERN stack (MongoDB, Express.js, React, Node.js). This project includes user authentication, product management, cart functionality, and secure payment integration.
- ![Design preview for the Ecommerce-platform (Design1.jpeg)]
+![Design preview for the Ecommerce platform ](Design1.jpeg)
 
 
 # Green Bird Fashion Wear
- ![Design preview for the Ecommerce-platform (Design2.jpeg)]
- ![Design preview for the Ecommerce-platform (Design3.jpeg)]
- ![Design preview for the Ecommerce-platform (Design4.jpeg)]
+ ![Design preview for the Ecommerce-platform ](Design2.jpeg)
+ ![Design preview for the Ecommerce-platform ](Design3.jpeg)
+ ![Design preview for the Ecommerce-platform ](Design4.jpeg)
 
 ## 🛍️ Project Overview
 Green Bird Fashion Wear is an e-commerce website designed for online shopping. It features a modern UI with sections for featured products, promotions, and user interaction. The site includes a navigation menu, a dynamic product showcase, and an automatic image carousel.
