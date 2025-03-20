@@ -1,7 +1,5 @@
 # ecommerce-platform
  A modern and fully responsive e-commerce platform built with the MERN stack (MongoDB, Express.js, React, Node.js). This project includes user authentication, product management, cart functionality, and secure payment integration.
-![Design preview for the Ecommerce platform ](Design1.jpeg)
-
 
 # Green Bird Fashion Wear
  ![Design preview for the Ecommerce-platform ](Design2.jpeg)
