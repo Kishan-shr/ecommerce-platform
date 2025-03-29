@@ -39,7 +39,7 @@ Green Bird Fashion Wear is an e-commerce website designed for online shopping. I
 ## 🚀 Installation & Usage
 1. **Download or Clone** the repository:
    ```sh
-   git clone https://github.com/your-repo-name.git
+   git clone https://github.com/Kishan-shr/ecommerce-platform
    ```
 2. **Open** `index.html` in a web browser.
 3. Ensure all assets (CSS, JS, and images) are in the correct paths.
